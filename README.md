@@ -1,4 +1,4 @@
 # Data Analysis
 
 ### Мои домашнии задания и лабораторные работы
-![header](https://user-images.githubusercontent.com/43387913/56806543-e7ea7080-6834-11e9-9f27-5f6ec81ed12f.jpg)
+![spec_logo](https://user-images.githubusercontent.com/43387913/56806964-1d438e00-6836-11e9-9b95-d6016ebc061e.jpg)
