@@ -8,3 +8,6 @@
 * [Global optimization and non-smooth function optimization](https://github.com/Alex110117/data_analysis/tree/master/Homework/2.%20Глобальная%20оптимизация%20и%20оптимизация%20негладкой%20функции)
 * [Central limit theorem (Pareto distribution)](https://github.com/Alex110117/data_analysis/tree/master/Homework/3.%20Центральная%20предельная%20теорема%20своими%20руками%20(Распределение%20Парето))
 * [Wine quality assessment](https://github.com/Alex110117/data_analysis/tree/master/Homework/4.%20Оценка%20качества%20вин)
+
+
+_If the code of Jupiter does not open, use **[nbviewer](https://nbviewer.jupyter.org)
