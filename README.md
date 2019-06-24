@@ -10,4 +10,6 @@
 * [Wine quality assessment](https://github.com/Alex110117/data_analysis/tree/master/Homework/4.%20Оценка%20качества%20вин)
 
 
-_If the code of Jupiter does not open, use **[nbviewer](https://nbviewer.jupyter.org)
+
+
+_If the code of Jupiter does not open, use [nbviewer](https://nbviewer.jupyter.org)_
