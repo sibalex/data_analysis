@@ -10,7 +10,7 @@
 * [Wine quality assessment (Analysis)](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20coursera%20Mathematics%20and%20Python/4.%20Оценка%20качества%20вин/wineDS.ipynb)
 * [Machine Learning with Iris Dataset (RandomForest, LogisticRegression)](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/6.%20bigData%20(RandomForest_and_LogisticRegression)/hw_bigData(RandomForestClassification__vs__LogisticRegression)(A.Sib).ipynb)
 * [Analysis and Hypotheses to understand why employees leave the company](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20(A.Sib).ipynb)
-* [Data preprocessing lab(metrics: Accuracy, F1-Score, Precision, Recall)](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
+* [Data preprocessing lab (Score_metrics: Accuracy, F1-Score, Precision, Recall)](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
 
 
 
