@@ -25,7 +25,7 @@
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/6.%20bigData%20%28RandomForest_and_LogisticRegression%29/hw_bigData%28RandomForestClassification__vs__LogisticRegression%29%28A.Sib%29.ipynb)
 * [Big Data laboratory work "MovieLens 100K Dataset" (Python, Apache Spark)](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep)
   * [*alternative link (Part_1 Python)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_1_py.ipynb)
-  * [*alternative link (Part_2 Apache Spark)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_2_spark_v2.ipynb)
+  * [*alternative link (Part_2 Apache Spark)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_2_spark_v2.1.ipynb)
 
 
 <br></br>
