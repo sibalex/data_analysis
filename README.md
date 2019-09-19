@@ -3,7 +3,7 @@
 ![spec_logo](https://user-images.githubusercontent.com/43387913/56806964-1d438e00-6836-11e9-9b95-d6016ebc061e.jpg)
 
 
-### Homework and laboratory work:
+## Homework and laboratory work:
 * [**Explorative data analysis on banking transaction (Feature engineering, Validation dev, Machine Learnin)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
 * [**Analysis and Hypotheses to understand why employees leave the company**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20(A.Sib).ipynb)
