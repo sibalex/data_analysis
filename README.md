@@ -30,4 +30,4 @@
 
 <br></br>
 
-_If the code of Jupiter does not open, use [jupyter nbviewer](https://nbviewer.jupyter.org)_
+_If the code of Jupiter does not open, use [**jupyter nbviewer**](https://nbviewer.jupyter.org)_
