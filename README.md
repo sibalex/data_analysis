@@ -40,7 +40,7 @@
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/8.%20Model%20accuracy%20assessment%2C%20retraining%2C%20regularization/HW_Untitled.ipynb)
 * [**Improved model quality. Advanced algorithms. (GridSearchCV, best_params_, best_score_, best_estimator_)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb)
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb)
-* [**1 (1)**](1)
+* [**Machine Learning lab (1)**](1)
    * [*alternative link*](1)
 
 ### Apache Spark:
