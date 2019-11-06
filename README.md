@@ -40,8 +40,9 @@
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/8.%20Model%20accuracy%20assessment%2C%20retraining%2C%20regularization/HW_Untitled.ipynb)
 * [**Improved model quality. Advanced algorithms. (GridSearchCV, best_params_, best_score_, best_estimator_)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb)
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb)
-* [**Machine Learning Laboratory work on modeling**](1)
-   * [*alternative link*](1)
+* [**Machine Learning Laboratory work on modeling**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling)
+   * [*alternative link (V_1)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/Lab%20building%20a%20model.ipynb)
+   * [*alternative link (V_2)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/LW_ML.ipynb)
 
 ### Apache Spark:
 * [**Big Data laboratory work "MovieLens 100K Dataset" (Python, Apache Spark)**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep)
