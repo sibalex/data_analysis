@@ -8,7 +8,7 @@
   * [*alternative link (Part_2 kNN digits)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/4.%20kNN%20digits%3AkNN%20digits/7.%20kNN%20digits.ipynb)
 * [**Clustering Algorithms (KMeans, DBSCAN, adjusted_rand_score, silhouette_score)**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/5.%20Clustering%20Algorithms)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/5.%20Clustering%20Algorithms/homework%20clustering.ipynb)
-* [**Wine quality assessment (Analysis, Machine Learnin)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20coursera%20Mathematics%20and%20Python/4.%20Оценка%20качества%20вин/wineDS.ipynb)
+* [**Wine quality assessment (Analysis)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20coursera%20Mathematics%20and%20Python/4.%20Оценка%20качества%20вин/wineDS.ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20coursera%20Mathematics%20and%20Python/4.%20%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B2%D0%B8%D0%BD/wineDS.ipynb)
 * [**Machine Learning with Iris Dataset (RandomForest, LogisticRegression)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/6.%20bigData%20(RandomForest_and_LogisticRegression)/hw_bigData(RandomForestClassification__vs__LogisticRegression)(A.Sib).ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/6.%20bigData%20%28RandomForest_and_LogisticRegression%29/hw_bigData%28RandomForestClassification__vs__LogisticRegression%29%28A.Sib%29.ipynb)
@@ -33,11 +33,11 @@
    * [*alternative link*](1)
 
 ### Feature engineering:
-* [**Explorative data analysis on banking transaction (Feature engineering, Validation dev, Machine Learnin)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
+* [**Explorative data analysis on banking transaction (Validation dev)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
-* [**Explorative data analysis (Feature engineering, Machine Learnin)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
+* [**Explorative data analysis**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
-* [**Data preprocessing lab (Score_metrics: Accuracy, F1-Score, Precision, Recall)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
+* [**Data preprocessing lab (Score_metrics)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
 
 ### Apache Spark:
