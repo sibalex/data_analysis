@@ -40,10 +40,14 @@
 * [**Data preprocessing lab (Score_metrics)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
 
-### Apache Spark:
-* [**Big Data laboratory work "MovieLens 100K Dataset" (Python, Apache Spark)**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep)
+### BigData Apache Spark:
+* [**laboratory "MovieLens 100K Dataset"**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep)
   * [*alternative link (Part_1 Python)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_1_py.ipynb)
   * [*alternative link (Part_2 Apache Spark)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_2_spark_v2.1.ipynb)
+* [**pySpark**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/4.%20pySpark/Spark_Python.ipynb)
+  * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/4.%20pySpark/Spark_Python.ipynb)
+* [**Monetization**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/2.%20house-prices-advanced-regression-techniques/hw2_bd.ipynb)
+  * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/2.%20house-prices-advanced-regression-techniques/hw2_bd.ipynb)
 
 ### Mathematics and Python:
 * [**Analysis and Hypotheses to understand why employees leave the company**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20(A.Sib).ipynb)
