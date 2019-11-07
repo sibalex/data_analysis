@@ -44,6 +44,10 @@
    * [*alternative link (V_1)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/Lab%20building%20a%20model.ipynb)
    * [*alternative link (V_2)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/LW_ML.ipynb)
 
+### Computer vision:
+* [**1 (1)**](1)
+   * [*alternative link*](1)
+
 ### Apache Spark:
 * [**Big Data laboratory work "MovieLens 100K Dataset" (Python, Apache Spark)**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep)
   * [*alternative link (Part_1 Python)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_1_py.ipynb)
