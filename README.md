@@ -40,6 +40,9 @@
 * [**Introduction to neural networks (TensorFlow)**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/14.%20Introduction%20to%20neural%20networks)
   * [*alternative link (linear operation)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/14.%20Introduction%20to%20neural%20networks/004_regression2.ipynb)
   * [*alternative link (logistic regression)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/14.%20Introduction%20to%20neural%20networks/004_classification.ipynb)
+* [**Convolutional Neural Network (TensorFlow, Keras)**](https://github.com/Alex110117/data_analysis/tree/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/15.%20Convolutional%20Neural%20Network%20%20(CNN))
+  * [*alternative link (MNIST CNN)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/15.%20Convolutional%20Neural%20Network%20%20%28CNN%29/005_cnn_mnist.ipynb)
+  * [*alternative link (neural-style CNN)*](123)
 
 ### Feature engineering:
 * [**Explorative data analysis on banking transaction (Validation dev)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
