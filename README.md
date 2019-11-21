@@ -52,7 +52,7 @@
 * [**Data preprocessing lab (Score_metrics)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
 
-### Big Data:
+### Apache Spark:
 * [**laboratory "MovieLens 100K Dataset"**](https://github.com/Alex110117/data_analysis/tree/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep)
   * [*alternative link (Part_1 Python)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_1_py.ipynb)
   * [*alternative link (Part_2 Apache Spark)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_2_spark_v2.1.ipynb)
