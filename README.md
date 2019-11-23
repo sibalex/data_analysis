@@ -45,6 +45,9 @@
   * [*alternative link (neural-style CNN)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/15.%20Convolutional%20Neural%20Network%20%20%28CNN%29/005_neural_style2.ipynb)
 * [**Convolutional Neural Network (CNN, VGG16, TensorFlow, Keras)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/16.%20Convolutional%20neural%20networks%20practical%20application/keras_vgg16.ipynb)
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/16.%20Convolutional%20neural%20networks%20practical%20application/keras_vgg16.ipynb)
+* [**CNN for segmentation and detection tasks**](https://github.com/Alex110117/data_analysis/tree/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/17.%20convolutional%20networks%20for%20segmentation%20and%20detection%20tasks)
+   * [*alternative link (segmentation)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/17.%20convolutional%20networks%20for%20segmentation%20and%20detection%20tasks/007-segmentation.ipynb)
+   * [*alternative link (detection)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/17.%20convolutional%20networks%20for%20segmentation%20and%20detection%20tasks/007-detection.ipynb)
 
 ### Feature engineering:
 * [**Explorative data analysis on banking transaction (Validation dev)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
