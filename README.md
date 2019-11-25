@@ -51,8 +51,8 @@
 * [**Recurrent networks in image processing tasks**](https://github.com/Alex110117/data_analysis/tree/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/18.%20Recurrent%20networks%20in%20image%20processing%20tasks)
    * [*alternative link (plate-ocr)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/18.%20Recurrent%20networks%20in%20image%20processing%20tasks/plate_ocr.ipynb)
    * [*alternative link (text-lstm)*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/18.%20Recurrent%20networks%20in%20image%20processing%20tasks/008-text-lstm_copy.ipynb)
-* [**Generative Competitive Networks (GAN)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/19.%20Generative%20Competitive%20Networks%20(GAN)/009-gans.ipynb)
-   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/19.%20Generative%20Competitive%20Networks%20%28GAN%29/009-gans.ipynb)
+* [**Generative Competitive Networks (GAN)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/19.%20Generative%20Competitive%20Networks%20(GAN)/gan_copy.ipynb)
+   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/19.%20Generative%20Competitive%20Networks%20%28GAN%29/gan_copy.ipynb)
 
 ### Feature engineering:
 * [**Explorative data analysis on banking transaction (Validation dev)**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
