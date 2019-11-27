@@ -97,4 +97,4 @@
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20coursera%20Mathematics%20and%20Python/3.%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D1%81%D0%B2%D0%BE%D0%B8%D0%BC%D0%B8%20%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8%20%28%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE%29/homework_scipy.stats.pareto.ipynb)
 <br></br>
 
-_If the code of Jupiter does not open, use [**jupyter nbviewer**](https://nbviewer.jupyter.org)_
+_(If the code of Jupiter does not open, use [**jupyter nbviewer**](https://nbviewer.jupyter.org))_
