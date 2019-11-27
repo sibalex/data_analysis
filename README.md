@@ -55,17 +55,17 @@
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/19.%20Generative%20Competitive%20Networks%20%28GAN%29/gan_copy.ipynb)
 
 ### Feature engineering:
-* [**Explorative data analysis on banking transaction (Validation dev)**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
-* [**Analysis and Hypotheses to understand why employees leave the company**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20%28A.Sib%29.ipynb)
-* [**Using pandas and numpy to clean data**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/2.%20Using%20pandas%20and%20numpy%20to%20clean%20data/Practice_2_taxi%202.ipynb)
-* [**Feature Selection (LASSO(L1), Trees)**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/5.%20Feature%20Selection%20%20%28LASSO%28L1%29%2C%20Trees%29/Practice_3_media_%28FS%29.ipynb)
-* [**Backward selection**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/4.%20Feature%20Selection/Practice_4_housing_%28backward_selection%29/Practice_4_housing_%28backward_selection%29.ipynb)
-* [**Data Quality Problem**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/1.%20Data%20Quality%20Problem/Practice_1_1_cor2.ipynb)
-* [**Feature Selection**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/4.%20Feature%20Selection/Practice_3_media_cut/Practice_3_media_cut2.ipynb)
-* [**train_test_split, score (RSS, RSE, R^2)**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb)
-* [**Preprocessing**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
-* [**Explorative data analysis**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
-* [**Data preprocessing lab (Score_metrics)**](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
+* [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
+* [Analysis and Hypotheses to understand why employees leave the company](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20%28A.Sib%29.ipynb)
+* [Using pandas and numpy to clean data](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/2.%20Using%20pandas%20and%20numpy%20to%20clean%20data/Practice_2_taxi%202.ipynb)
+* [Feature Selection _(LASSO(L1), Trees)_](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/5.%20Feature%20Selection%20%20%28LASSO%28L1%29%2C%20Trees%29/Practice_3_media_%28FS%29.ipynb)
+* [Backward selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/4.%20Feature%20Selection/Practice_4_housing_%28backward_selection%29/Practice_4_housing_%28backward_selection%29.ipynb)
+* [Data Quality Problem](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/1.%20Data%20Quality%20Problem/Practice_1_1_cor2.ipynb)
+* [Feature Selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/4.%20Feature%20Selection/Practice_3_media_cut/Practice_3_media_cut2.ipynb)
+* [train_test_split, score _(RSS, RSE, R^2)_](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb)
+* [Preprocessing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
+* [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
+* [Data preprocessing lab _(Score_metrics)_](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
 
 ### Apache Spark:
 * [laboratory "MovieLens 100K Dataset"](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/7.%20Py_Spark_dep/dep_bd_2_spark_v2.1.ipynb)
@@ -73,4 +73,4 @@
 * [Monetization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/2.%20house-prices-advanced-regression-techniques/hw2_bd.ipynb)
 <br></br>
 
-_(If the code of Jupiter does not open, use [**jupyter nbviewer**](https://nbviewer.jupyter.org))_
+_(If the code of Jupiter does not open, use [*jupyter nbviewer*](https://nbviewer.jupyter.org))_
