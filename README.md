@@ -68,10 +68,9 @@
 * [**Feature Selection**](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Feature%20engineering/4.%20Feature%20Selection/Practice_3_media_cut/Practice_3_media_cut2.ipynb)
    * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/4.%20Feature%20Selection/Practice_3_media_cut/Practice_3_media_cut2.ipynb)
 * [**train_test_split, score (RSS, RSE, R^2)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb)
-   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb)
+  * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb)
 * [**Preprocessing**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
-   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
-
+  * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
 * [**Explorative data analysis**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
   * [*alternative link*](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
 * [**Data preprocessing lab (Score_metrics)**](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb)
