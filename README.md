@@ -13,7 +13,7 @@
 * [Titanic Dataset](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/3.%20aml_hw2.ipynb) _(DecisionTreeClassifier, GridSearchCV)_
 * [Ensemble](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/6.%20Ensemble/hw5_c.ipynb) _(StackingCVRegressor, GradientBoostingRegressor, BaggingRegressor, AdaBoostRegressor)_
 * [Loss Functions and Optimization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/7.%20Loss%20Functions%20and%20Optimization/Optimization_hw.ipynb) _(gradient descent, nesterov momentum, rmsprop)_
-* [Improved model quality, Advanced algorithms](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb) _(GridSearchCV, best_params_, best_score_, best_estimator_)_
+* [Improved model quality, Advanced algorithms](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb) _(GridSearchCV, best_params, best_score, best_estimator)_
 * [Machine Learning Laboratory work on modeling](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/LW_ML.ipynb)
 
 ### Computer vision:
