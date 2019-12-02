@@ -2,7 +2,7 @@
 
 ![spec_logo](https://user-images.githubusercontent.com/43387913/56806964-1d438e00-6836-11e9-9b95-d6016ebc061e.jpg)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=https%3A%2F%2Fgithub.com%2FAlex110117%2Fdata_analysis%2Ftree%2Fmaster%2Fbilder%2F)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=https%3A%2F%2Fgithub.com%2FAlex110117%2Fdata_analysis%2Ftree%2Fmaster%2Fbilder)
 
 ### Classic Data Science and Machine Learning:
 * [Model accuracy assessment, retraining, regularization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/8.%20Model%20accuracy%20assessment%2C%20retraining%2C%20regularization/HW_Untitled.ipynb) _(XGBClassifier, roc_curve, precision_recall_curve)_
