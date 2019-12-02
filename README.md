@@ -54,9 +54,4 @@
 * [PySpark](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/4.%20pySpark/Spark_Python.ipynb)
 * [Monetization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/2.%20house-prices-advanced-regression-techniques/hw2_bd.ipynb)
 
-![69950240-226f6680-1504-11ea-8b82-111c74981c9f](https://user-images.githubusercontent.com/43387913/69950548-8c880b80-1504-11ea-801f-ee6adef95e69.jpg)
-
-_If the code of Jupiter does not open, use [![69950240-226f6680-1504-11ea-8b82-111c74981c9f](https://user-images.githubusercontent.com/43387913/69950548-8c880b80-1504-11ea-801f-ee6adef95e69.jpg)](https://nbviewer.jupyter.org)_
-
-
-_If the code of Jupiter does not open, use [*jupyter nbviewer*](https://nbviewer.jupyter.org)_
+[![69950240-226f6680-1504-11ea-8b82-111c74981c9f 2](https://user-images.githubusercontent.com/43387913/69950995-76c71600-1505-11ea-81cd-be72e9023809.jpg)](https://nbviewer.jupyter.org)
