@@ -55,5 +55,9 @@
 * [Monetization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/2.%20house-prices-advanced-regression-techniques/hw2_bd.ipynb)
 <br></br>
 
-<img width="1032" alt="Screenshot 2019-12-02 at 12 52 20" src="https://user-images.githubusercontent.com/43387913/69949505-b04a5200-1502-11ea-9ddd-2598a55710e3.png" href='https://nbviewer.jupyter.org'>
+![56806964-1d438e00-6836-11e9-9b95-d6016ebc061e](https://user-images.githubusercontent.com/43387913/69949863-55fdc100-1503-11ea-9359-91b48905263b.jpg)
+
+![56806964-1d438e00-6836-11e9-9b95-d6016ebc061e](https://nbviewer.jupyter.org)
+
+
 _(If the code of Jupiter does not open, use [*jupyter nbviewer*](https://nbviewer.jupyter.org))_
