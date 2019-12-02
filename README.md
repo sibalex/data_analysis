@@ -1,6 +1,6 @@
 # Python for Data Analysis
 
-![56806964-1d438e00-6836-11e9-9b95-d6016ebc061e-1 2](https://user-images.githubusercontent.com/43387913/69955399-9b73bb80-150e-11ea-98ba-d55fb66ccb10.png)
+![56806964-1d438e00-6836-11e9-9b95-d6016ebc061e-1 2](https://user-images.githubusercontent.com/43387913/69956667-a9770b80-1511-11ea-9654-d77020280539.png)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/Alex110117/data_analysis.svg?branch=master)](https://travis-ci.org/Alex110117/data_analysis)
