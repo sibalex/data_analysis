@@ -5,7 +5,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/Alex110117/data_analysis.svg?branch=master)](https://travis-ci.org/Alex110117/data_analysis)
 
-_Last update: 2019-12-02_
+> _Last update: 2019-12-02_
+
 > This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) and [Coursera](https://www.coursera.org), in which I managed to participate. Sections will be added in the near future: **NLP**, **Recommender Systems**, **Time series**.
 
 ### Classic Data Science and Machine Learning:
