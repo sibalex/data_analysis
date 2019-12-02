@@ -2,6 +2,7 @@
 
 ![spec_logo](https://user-images.githubusercontent.com/43387913/56806964-1d438e00-6836-11e9-9b95-d6016ebc061e.jpg)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/Alex110117/data_analysis.svg?branch=master)](https://travis-ci.org/Alex110117/data_analysis)
 
 ### Classic Data Science and Machine Learning:
