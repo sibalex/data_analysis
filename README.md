@@ -56,4 +56,7 @@
 
 ![69950240-226f6680-1504-11ea-8b82-111c74981c9f](https://user-images.githubusercontent.com/43387913/69950548-8c880b80-1504-11ea-801f-ee6adef95e69.jpg)
 
-_(If the code of Jupiter does not open, use [*jupyter nbviewer*](https://nbviewer.jupyter.org))_
+_If the code of Jupiter does not open, use [![69950240-226f6680-1504-11ea-8b82-111c74981c9f](https://user-images.githubusercontent.com/43387913/69950548-8c880b80-1504-11ea-801f-ee6adef95e69.jpg)](https://nbviewer.jupyter.org)_
+
+
+_If the code of Jupiter does not open, use [*jupyter nbviewer*](https://nbviewer.jupyter.org)_
