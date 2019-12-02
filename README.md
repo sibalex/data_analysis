@@ -2,6 +2,8 @@
 
 ![spec_logo](https://user-images.githubusercontent.com/43387913/56806964-1d438e00-6836-11e9-9b95-d6016ebc061e.jpg)
 
+[![Build Status](https://travis-ci.org/Alex110117/data_analysis.svg?branch=master)](https://travis-ci.org/Alex110117/data_analysis)
+
 ### Classic Data Science and Machine Learning:
 * [Model accuracy assessment, retraining, regularization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/8.%20Model%20accuracy%20assessment%2C%20retraining%2C%20regularization/HW_Untitled.ipynb) _(XGBClassifier, roc_curve, precision_recall_curve)_
 * [Polynomial Regression and Proximity Metrics](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/4.%20kNN%20digits%3AkNN%20digits/3.%20Levenshtein%20distance.ipynb) _(Levenshtein distance)_
