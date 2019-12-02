@@ -5,6 +5,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/Alex110117/data_analysis.svg?branch=master)](https://travis-ci.org/Alex110117/data_analysis)
 
+> This repository contains examples of popular machine learning algorithms implemented in **Python** with mathematics behind them being explained. Each algorithm has interactive **Jupyter Notebook** demo that allows you to play with training data, algorithms configurations and immediately see the results, charts and predictions **right in your browser**. In most cases, notebooks from the courses [Netology](https://netology.ru) and [Coursera](https://www.coursera.org) and other, in which I managed to participate.
+
 ### Classic Data Science and Machine Learning:
 * 📗 [Model accuracy assessment, retraining, regularization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/8.%20Model%20accuracy%20assessment%2C%20retraining%2C%20regularization/HW_Untitled.ipynb) _(XGBClassifier, roc_curve, precision_recall_curve)_
 * 📗 [Polynomial Regression and Proximity Metrics](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/4.%20kNN%20digits%3AkNN%20digits/3.%20Levenshtein%20distance.ipynb) _(Levenshtein distance)_
