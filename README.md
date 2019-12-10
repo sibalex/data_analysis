@@ -36,6 +36,9 @@
 
 ### Natural Language Processing:
 * 📗 [Introduction to automatic word processing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/bilder/Natural%20Language%20Processing/Introduction%20to%20automatic%20word%20processing.ipynb)
+* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/21.%20Syntactic%20analysis%20and%20keyword%20selection/NER.ipynb) _(NER, Natasha, BeautifulSoup, Spacy)_
+* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/21.%20Syntactic%20analysis%20and%20keyword%20selection/keywords.ipynb) _(keywords, nltk, pymystem3, wordcloud, TfidfVectorizer)_
+* 📗 [Syntactic analysis and keyword selection](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/21.%20Syntactic%20analysis%20and%20keyword%20selection/syntax.ipynb) _(syntax, graphviz, NN)_
 
 ### Computer vision:
 * 📗 [Image filtering](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/11.%20Basic_theory_CV/filtering.ipynb)
