@@ -18,7 +18,6 @@
 * 📙 [Adult Dataset](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/2.%20aml_hw1.ipynb) _(SVM, LogisticRegression)_
 * 📗 [KNeighborsClassifier](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/4.%20Polynomial%20Regression%20and%20Proximity%20Metrics%20(kNN)/1.%20kNN.ipynb)
 * 📙 [Titanic Dataset](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/3.%20aml_hw2.ipynb) _(DecisionTreeClassifier, GridSearchCV)_
-* 📗 [Dendrogram](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/5.%20Clustering%20Algorithms/dendrogram.ipynb)
 * 📗 [Clustering inclass](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/5.%20Clustering%20Algorithms/clustering_inclass.ipynb)
 * 📗 [Ensemble](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/6.%20Ensemble/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B8.ipynb) _(models)_
 * 📙 [Ensemble](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/6.%20Ensemble/hw5_c.ipynb) _(StackingCVRegressor, GradientBoostingRegressor, BaggingRegressor, AdaBoostRegressor)_
@@ -51,6 +50,7 @@
 * 📙 [Monetization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Big%20Data%20and%20Python/2.%20house-prices-advanced-regression-techniques/hw2_bd.ipynb)
 
 ### Mathematics and Python:
+* 📗 [Dendrogram](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/5.%20Clustering%20Algorithms/dendrogram.ipynb)
 * 📗 [Проход по вложенным спискам и словарям](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/7.%20Python_sql/Lists_and_dicts.ipynb) _()_
 * 📗 [viz](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb) _()_
 * 📗 [extra](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/10.%20Python_extra/PYDA-extra.ipynb) _()_
