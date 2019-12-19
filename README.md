@@ -51,16 +51,14 @@
 
 ### Mathematics and Python:
 * 📗 [Dendrogram](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/5.%20Clustering%20Algorithms/dendrogram.ipynb)
-* 📗 [Проход по вложенным спискам и словарям](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/7.%20Python_sql/Lists_and_dicts.ipynb) _()_
-* 📗 [viz](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb) _()_
-* 📗 [extra](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/10.%20Python_extra/PYDA-extra.ipynb) _()_
-* 📗 [stat](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/11.%20Python_Basics%20of%20descriptive%20statistics/lecture_1.ipynb) _()_
-* 📗 [stat test](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/12.%20Python_CPT_stat/lecture_2.ipynb) _()_
-* 📗 [stat2](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20Python_CPT_test_stat/lecture_3.ipynb) _()_
-* 📗 [case stat](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20Py_stat_c1/lecture_4.ipynb) _()_
-* 📗 [stat l](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20Py_stat_c1/lecture_4.ipynb) _()_
-* 📗 [case stat2_v2](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5_1.ipynb) _()_
-* 📗 [case stat2_v1](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5.ipynb) _()_
+* 📗 [Visualization](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb)
+* 📗 [Extra](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/10.%20Python_extra/PYDA-extra.ipynb)
+* 📗 [Statistics](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/11.%20Python_Basics%20of%20descriptive%20statistics/lecture_1.ipynb)
+* 📗 [CPT Stat](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/12.%20Python_CPT_stat/lecture_2.ipynb)
+* 📗 [Descriptive statistics](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20Python_CPT_test_stat/lecture_3.ipynb) _(testing)_
+* 📗 [Statistics Сase](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20Py_stat_c1/lecture_4.ipynb)
+* 📗 [Statistics Сase_2.1](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5_1.ipynb)
+* 📗 [Statistics Сase_2.2](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5.ipynb)
 * 📙 [Credit Card Fraud Detection](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20dz_12%20(A.Sib).ipynb)
 * 📙 [Indian liver_patient](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20dz_11%20(A.Sib).ipynb)
 * 📙 [Auto](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/14.%20labs2_pyda.ipynb) _()_
