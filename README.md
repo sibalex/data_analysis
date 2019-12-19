@@ -60,13 +60,9 @@
 * 📗 [Statistics Сase 2](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5_1.ipynb)
 * 📙 [Credit Card Fraud Detection](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20dz_12%20(A.Sib).ipynb)
 * 📙 [Indian liver_patient](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20dz_11%20(A.Sib).ipynb)
-* 📙 [Auto](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/14.%20labs2_pyda.ipynb) _()_
+* 📙 [ProfileReport](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/14.%20labs2_pyda.ipynb)
 * 📙 [Types of distributions](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/12.%20dz10%20(A.Sib).ipynb)
-* 📙 [world-happiness-report](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/11.%20dz9%20(A.Sib).ipynb)
-* 📙 [Viz](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20dz8%20(A.Sib).ipynb)
-* 📙 [pandas](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/6.%20dz6%20(A.Sib).ipynb)
-* 📙 [numpy, scipy](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/5.%20dz5%20(A.Sib).ipynb)
-* 📙 [data](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/4.%20dz4%20(A.Sib).ipynb)
+* 📙 [Pandas](https://github.com/Alex110117/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/6.%20dz6%20(A.Sib).ipynb)
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
