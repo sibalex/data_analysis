@@ -29,6 +29,9 @@
 * 📙 [Improved model quality, Advanced algorithms](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/9.%20Improved%20model%20quality.%20Advanced%20algorithms./hw_boston.ipynb) _(GridSearchCV, best_params, best_score, best_estimator)_
 * 📙 [Machine Learning Laboratory work on modeling](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/LW_ML.ipynb)
 
+### Recommender systems:
+* 📙 [Introduction and classification of recommendation systems]()
+
 ### Feature engineering:
 * 📗 [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
 * 📙 [Analysis and Hypotheses to understand why employees leave the company](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20%28A.Sib%29.ipynb)
@@ -41,9 +44,6 @@
 * 📙 [Preprocessing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
 * 📙 [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
 * 📙 [Data preprocessing lab](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb) _(Score_metrics)_
-
-### Recommender systems:
-* 📙 [Introduction and classification of recommendation systems]()
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
