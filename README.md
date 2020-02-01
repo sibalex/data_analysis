@@ -42,7 +42,7 @@
 * 📙 [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
 * 📙 [Data preprocessing lab](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb) _(Score_metrics)_
 
-### Classic Data Science and Machine Learning:
+### Recommender systems:
 * 📙 [Introduction and classification of recommendation systems]()
 <br></br>
 
