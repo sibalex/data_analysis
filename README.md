@@ -30,7 +30,7 @@
 * 📙 [Machine Learning Laboratory work on modeling](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/10.%20Machine%20Learning%20Laboratory%20work%20on%20modeling/LW_ML.ipynb)
 
 ### Recommender systems:
-* 📙 [Introduction and classification of recommendation systems]()
+* 📙 [Introduction and classification of recommendation systems](https://nbviewer.jupyter.org/github/sibalex/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/27.%20Introduction%20and%20classification%20of%20recommendation%20systems/lecture-1-hw.ipynb)
 
 ### Feature engineering:
 * 📗 [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
