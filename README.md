@@ -32,7 +32,7 @@
 
 ### Recommender systems:
 * 📗 [Introduction and classification of recommendation systems](https://nbviewer.jupyter.org/github/sibalex/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Machine%20learning/27.%20Introduction%20and%20classification%20of%20recommendation%20systems/lecture-1-hw.ipynb)
-* 📗 [Content Based Recommendations]()
+* 📗 Content Based Recommendations
 * 📙 [Collaborative filtering](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/9.2%20Collaborative%20filtering/rs_hw3.ipynb) _(part 2, package Surprise, KNNBasic, KNNWithMeans, SVD, SVDpp, accuracy)_
 
 ### Feature engineering:
