@@ -1,0 +1,8 @@
+brew install gcc
+!pip install implicit
+
+
+https://www.upf.edu/web/mtg/lastfm360k
+
+
+https://www.kaggle.com/grouplens/movielens-latest-small/kernels?sortBy=voteCount&group=everyone&pageSize=20&datasetId=63741
