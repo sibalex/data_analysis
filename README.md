@@ -36,7 +36,7 @@
 * 📙 [Content Based Recommendations](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/28.%20Content%20Based%20Recommendations/hw2_rs.ipynb) _(preprocessing, StackingCVRegressor)_
 * 📙 [Collaborative filtering](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/9.2%20Collaborative%20filtering/rs_hw3.ipynb) _(part 2, package Surprise, KNNBasic, KNNWithMeans, SVD, SVDpp, accuracy)_
 * 📗 [Recommendations based on hidden factors](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/29.%20Recommendations%20based%20on%20hidden%20factors/lecture-4-part-2.ipynb) _(implicit, sparse)_
-* 📙 Hybrid Recommender Systems
+* 📙 [Hybrid Recommender Systems](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/30.%20Hybrid%20Recommender%20Systems/hw5rs.ipynb)
 * 📗 [Hybrid Recommender Systems](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/30.%20Hybrid%20Recommender%20Systems/hybrid%20rec.ipynb) _(surprise, NearestNeighbors)_
 * 📗 [Hybrid Recommender Systems](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/30.%20Hybrid%20Recommender%20Systems/lecture-5-part-2.ipynb) _(lightfm)_
 
