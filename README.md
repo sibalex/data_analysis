@@ -41,6 +41,10 @@
 * 📗 [Hybrid Recommender Systems](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/30.%20Hybrid%20Recommender%20Systems/hybrid%20rec.ipynb) _(surprise, NearestNeighbors)_
 * 📗 [Hybrid Recommender Systems](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/30.%20Hybrid%20Recommender%20Systems/lecture-5-part-2.ipynb) _(lightfm)_
 
+### Time series:
+* 📗 []()
+* 📙 []()
+
 ### Feature engineering:
 * 📗 [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
 * 📙 [Analysis and Hypotheses to understand why employees leave the company](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Mathematics%20and%20Python/17.%20Py_dep_analysis%20%28A.Sib%29.ipynb)
