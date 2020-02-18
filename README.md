@@ -42,7 +42,9 @@
 * 📗 [Hybrid Recommender Systems](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/30.%20Hybrid%20Recommender%20Systems/lecture-5-part-2.ipynb) _(lightfm)_
 
 ### Time series:
-* 📗 []()
+* 📗 [Introducing Time Series]()
+* 📗 [Basic Full Analysis Example]()
+* 📙 [TS Practice]()
 * 📙 []()
 
 ### Feature engineering:
