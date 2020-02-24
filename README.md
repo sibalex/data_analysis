@@ -50,7 +50,7 @@
 * 📗 ARIMA and GARCH models, predicting values based on them
 * 📗 Markovsky random processes, construction of Markov models for time series, forecasting of values
 * 📗 Time series debugging and anomaly detection
-* 📙 Bitcoin Historical USD Price _(TS, NN)_
+* 📙 Bitcoin Historical USD Price _(TS, NN, Keras)_
 
 ### Feature engineering:
 * 📗 [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
