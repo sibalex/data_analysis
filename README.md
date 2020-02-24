@@ -47,6 +47,8 @@
 * 📗 [Basic Full Analysis Example](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/31.%20Time%20Series%20Basic/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0.ipynb) _(adfuller, sm, smt, boxcox)_
 * 📗 [Elementary time series analysis methods](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/32.%20Elementary%20time%20series%20analysis%20methods/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.ipynb)
 * 📙 [Elementary time series analysis methods](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/32.%20Elementary%20time%20series%20analysis%20methods/ts_hw2.ipynb)
+* 📗 [ARIMA and GARCH models, predicting values based on them]()
+* 📙 [ARIMA and GARCH models, predicting values based on them]()
 
 ### Feature engineering:
 * 📗 [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
