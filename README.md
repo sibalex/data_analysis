@@ -48,7 +48,7 @@
 * 📗 [Elementary time series analysis methods](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/32.%20Elementary%20time%20series%20analysis%20methods/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.ipynb) _(MA, WMA, EMA, DEMA, TEMA)_
 * 📙 [Elementary time series analysis methods](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/32.%20Elementary%20time%20series%20analysis%20methods/ts_hw2.ipynb)
 * 📗 [ARIMA and GARCH models, predicting values based on them](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/33.%20ARIMA%20and%20GARCH%20models%2C%20predicting%20values%20based%20on%20them/L3_ts.ipynb) _(ARMA, ARIMA, ARCH, GARCH)_
-* 📙 ARIMA and GARCH models, predicting values based on them
+* 📙 [ARIMA and GARCH models, predicting values based on them](https://github.com/sibalex/data_analysis/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Machine%20learning/33.%20ARIMA%20and%20GARCH%20models%2C%20predicting%20values%20based%20on%20them/ts_hw3.ipynb)
 * 📗 Markovsky random processes, construction of Markov models for time series, predicting values
 * 📙 Markovsky random processes, construction of Markov models for time series, predicting values
 * 📗 Time series debugging and anomaly detection
