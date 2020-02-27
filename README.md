@@ -47,7 +47,7 @@
 * 📗 [Basic Full Analysis Example](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/31.%20Time%20Series%20Basic/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0.ipynb) _(adfuller, sm, smt, boxcox)_
 * 📙 [Elementary time series analysis methods](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/32.%20Elementary%20time%20series%20analysis%20methods/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.ipynb) _(MA, WMA, EMA, DEMA, TEMA)_
 * 📙 [ARIMA and GARCH models, predicting values based on them](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/33.%20ARIMA%20and%20GARCH%20models%2C%20predicting%20values%20based%20on%20them/L3_ts.ipynb) _(ARMA, ARIMA, ARCH, GARCH)_
-* 📗 Markovsky random processes, construction of Markov models for time series, predicting values
+* 📗 [Markovsky random processes](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/34.%20Markovsky%20random%20processes%2C%20construction%20of%20Markov%20models%20for%20time%20series%2C%20predicting%20values/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204.ipynb) _(construction of Markov models for time series, predicting values)_
 * 📗 Time series debugging and anomaly detection
 * 📙 Bitcoin Historical USD Price _(TS, NN, Keras)_
 
