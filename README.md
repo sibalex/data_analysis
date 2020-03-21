@@ -63,7 +63,7 @@
 * 📙 [Preprocessing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
 * 📙 [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
 * 📙 [Data preprocessing lab](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb) _(Score_metrics)_
-* 📙 [COVID-19 Open Research Dataset Challenge (CORD-19)]() _(text analysis, json)_
+* 📙 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://github.com/sibalex/data_analysis/blob/master/Notebook/notes/corona.ipynb) _(text analysis, json)_
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
