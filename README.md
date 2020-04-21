@@ -50,6 +50,7 @@
 * 📗 [Markovsky random processes](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/34.%20Markovsky%20random%20processes%2C%20construction%20of%20Markov%20models%20for%20time%20series%2C%20predicting%20values/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204.ipynb) _(construction of Markov models for time series, predicting values)_
 * 📗 [Time series debugging and anomaly detection](https://github.com/sibalex/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/35.%20Time%20series%20debugging%20and%20anomaly%20detection/L5_ts.ipynb)
 * 📙 [Bitcoin Historical USD Price](https://colab.research.google.com/drive/1iQH3RvK76elgCiJrnKAnNftyk41pJPFy) _(TS, NN, Keras)_
+* 📗 [Time series DJIA 30 Stock](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/RNN_LSTM_GRU_time_series.ipynb) _(RNN, LSTM, GRU)_
 
 ### Feature engineering:
 * 📗 [Explorative data analysis on banking transaction](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/7.%20case/Practice_7_bank_ottok_1.ipynb)
