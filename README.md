@@ -2,6 +2,7 @@
 
 ![71178167-a3598c80-227e-11ea-973a-a3f20f172312](https://user-images.githubusercontent.com/43387913/71196837-5c30c300-22a1-11ea-81ee-e939dffa2389.png)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex110117/data_analysis/master?filepath=bilder)
 [![Build Status](https://travis-ci.org/sibalex/data_analysis.svg?branch=master)](https://travis-ci.org/sibalex/data_analysis)
 
 > This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) and [Coursera](https://www.coursera.org), in which I managed to participate.
