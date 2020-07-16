@@ -7,7 +7,7 @@
 
 > This repository contains examples of popular machine learning algorithms implemented in **Python**. In most cases, notebooks from the courses [Netology](https://netology.ru) and [Coursera](https://www.coursera.org), in which I managed to participate.
 
-### Classic Data Science and Machine Learning:
+### Machine Learning:
 * 📙 [Model accuracy assessment, retraining, regularization](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/8.%20Model%20accuracy%20assessment%2C%20retraining%2C%20regularization/HW_Untitled.ipynb) _(XGBClassifier, roc_curve, precision_recall_curve)_
 * 📗 [Shelter Animal Outcomes](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Machine%20learning/3.%20DecisionTreeClassifier/2%20competition.ipynb) _(Kaggle competition)_
 * 📙 [Polynomial Regression and Proximity Metrics](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Machine%20learning/4.%20kNN%20digits%3AkNN%20digits/3.%20Levenshtein%20distance.ipynb) _(Levenshtein distance)_
@@ -64,6 +64,7 @@
 * 📙 [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
 * 📙 [Data preprocessing lab](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb) _(Score_metrics)_
 * 📙 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/corona.ipynb) _(text analysis, json)_
+* 📙 []() _()_
 <br></br>
 
 [![69950995-76c71600-1505-11ea-81cd-be72e9023809 2](https://user-images.githubusercontent.com/43387913/69954671-e5f43880-150c-11ea-8b26-2dcd8f26e731.png)](https://nbviewer.jupyter.org)
