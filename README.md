@@ -62,6 +62,8 @@
 * 📙 [train_test_split, score](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb) _(RSS, RSE, R^2)_
 * 📙 [Preprocessing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
 * 📙 [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
+* 📙 [Technics data analysis](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/FeatureEngineering.ipynb) _(quantile, z-score, IQR)_
+* 📙 [Support module](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/FE_train.ipynb) _(SelectKBest, ExtraTreesClassifier, mutual_info_classif)_
 * 📙 [Data preprocessing lab](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/8.%20Feature_engineering_lab.ipynb) _(Score_metrics)_
 <br></br>
 
