@@ -60,6 +60,7 @@
 * 📗 [Data Quality Problem](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Lectures%20notebooks/%28Lectures%20notebooks%29%20netology%20Feature%20engineering/1.%20Data%20Quality%20Problem/Practice_1_1_cor2.ipynb)
 * 📙 [train_test_split, score](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/4_hw2_dvp2.ipynb) _(RSS, RSE, R^2)_
 * 📙 [Preprocessing](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/2_hw1_fi2.ipynb)
+* 📙 [Class imbalanced](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/data-class-imbalanced.ipynb) _(Under_Sampling, Over_Sampling)_
 * 📙 [Explorative data analysis](https://nbviewer.jupyter.org/github/Alex110117/data_analysis/blob/master/Homework%20notebooks/%28HW%20notebooks%29%20netology%20Feature%20engineering/9.1.%20total_dvp1.ipynb)
 * 📙 [Technics data analysis](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/FeatureEngineering.ipynb) _(quantile, z-score, IQR)_
 * 📙 [Support module](https://github.com/sibalex/data_analysis/blob/master/Notebook/notebooks/FE_train.ipynb) _(SelectKBest, ExtraTreesClassifier, mutual_info_classif)_
